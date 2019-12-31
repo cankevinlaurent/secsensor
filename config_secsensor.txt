@@ -1,0 +1,15 @@
+##############################################################################
+# Config file: config_secsensor
+##############################################################################
+# MUST RESTART SERVICE TO RELOAD CONFIG
+
+#where this program locates
+location = sh
+
+#listen port
+port = 2018
+
+#authentication
+#username and password
+username = admin
+password = ctshitoc
